@@ -30,7 +30,7 @@
 
 <h3 align="left">Version Control & Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,platformio,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,arduino)](https://skillicons.dev)
 
 ###
 
