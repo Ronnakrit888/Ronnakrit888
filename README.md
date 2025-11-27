@@ -12,25 +12,25 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Learning</h3>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a" alt="Platformio" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker)](https://skillicons.dev)
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Web Development</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+
+<h3 align="left">Programming Languages</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=python,java&theme=light)](https://skillicons.dev)
+
+<h3 align="left">Version Control & Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,platformio)](https://skillicons.dev)
 
 ###
 
