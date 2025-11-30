@@ -16,13 +16,13 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,nestjs&perline=3)](https://skillicons.dev)
 
 ###
 
 <h3 align="left">Web Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,postgres,postman&perline=3)](https://skillicons.dev)
 
 <h3 align="left">Programming Languages</h3>
 
